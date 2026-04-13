@@ -1,0 +1,13 @@
+[general]
+
+import = [
+     "~/.config/alacritty/base16-twilight-dark.toml"
+]
+
+[font]
+size = 13
+
+[font.normal]
+family = "JetBrains Mono"
+style = "Regular"
+
